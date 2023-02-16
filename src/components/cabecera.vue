@@ -2,7 +2,7 @@
 <header>
            
 
-      git 
+      
 
        <div>
            <h1>Laboratorio de sistemas y aplicaciones web</h1>
