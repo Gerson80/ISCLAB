@@ -1,33 +1,10 @@
+<script>
+</script>
+
 <template>
-<header>
-           
+    
+    <header class="bg-transparent h-16 ">
+      <h1 class="text-center text-4xl text-white font-black ">Proyecto web</h1>
+    </header>
 
-      
-
-       <div>
-           <h1>Laboratorio de sistemas y aplicaciones web</h1>
-       </div>
-
-       <nav >
-           <div >
-             <ul >
-               <button>
-                   <li><a href="Login.html">Contacto</a></li>
-               </button>
-               
-             </ul>
-           </div>
-         </nav>
-   </header>
-  </template>
-
-  <style scoped>
-  
-  .CabezaTodo {
-    width: 100%;
-    height: 100%;
-    background-color: blue;
-
-  }
-  
-  </style>
+</template>
