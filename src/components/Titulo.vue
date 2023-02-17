@@ -1,5 +1,5 @@
 <script >
-import data from './../assets/datos.json'
+import data from '../assets/datos.json'
 import Suma from './CirculoPastel.vue'
 
 export default{

@@ -5,6 +5,7 @@ import Titulo from './components/Titulo.vue'
 import Cabecera from './components/Cabecera.vue'
 import Canva from './components/CirculoPastel.vue'
 import Informacion from './components/Informacion.vue'
+import Proyectos from './components/Proyectos.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import Informacion from './components/Informacion.vue'
   <section >
     <Titulo></Titulo>
     <Informacion></Informacion>
+    <Proyectos></Proyectos>
   </section>
   
   
