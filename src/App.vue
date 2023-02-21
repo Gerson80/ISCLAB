@@ -2,8 +2,12 @@
 //import HelloWorld from './components/HelloWorld.vue'
 import Titulo from './components/Titulo.vue'
 import Cabecera from './components/Cabecera.vue'
-import Informacion from './components/Informacion.vue'
 import Proyectos from './components/Proyectos.vue'
+import Que_hacemos from './components/Que_hacemos.vue'
+import Pueden_crear from './components/Pueden_crear.vue'
+import Queclase from './components/Queclase.vue'
+
+
 </script>
 
 <template>
@@ -12,7 +16,9 @@ import Proyectos from './components/Proyectos.vue'
 
   <section >
     <Titulo></Titulo>
-    <Informacion></Informacion>
+    <Que_hacemos></Que_hacemos>
+    <Pueden_crear></Pueden_crear>
+    <Queclase></Queclase>
     <Proyectos></Proyectos>
   </section>
   
