@@ -1,9 +1,7 @@
 <script setup>
 //import HelloWorld from './components/HelloWorld.vue'
-import boton from './components/boton.vue'
 import Titulo from './components/Titulo.vue'
 import Cabecera from './components/Cabecera.vue'
-import Canva from './components/CirculoPastel.vue'
 import Informacion from './components/Informacion.vue'
 import Proyectos from './components/Proyectos.vue'
 </script>

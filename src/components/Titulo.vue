@@ -1,17 +1,3 @@
-<script >
-import data from '../assets/datos.json'
-import Suma from './CirculoPastel.vue'
-
-export default{
-    data(){
-        return{
-            lista:data
-        }
-    }
-}
-
-
-</script>
 
 
 <template>
